@@ -1,0 +1,28 @@
+.cinema-list {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}
+
+.cinema-item {
+    width: 400px;
+    margin: 0 15px 25px 0;
+    padding: 15px;
+}
+
+.cinema-title {
+    margin: 0;
+    font-size: 24px;
+}
+
+.cinema-actor-names {
+    font-size: 16px;
+}
+
+.cinema-year-text,
+.cinema-genres {
+    margin: 8px 0 0 0;
+    font-size: 18px;
+}
+
+/* .cinema-actor-list {} */
